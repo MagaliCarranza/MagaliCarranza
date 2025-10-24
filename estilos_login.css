@@ -1,0 +1,127 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+main{
+    width:100%;
+    height:100vh;
+    background: linear-gradient(to bottom, #f5f6f6 0%,#dbdce2 21%,#b8bac6 49%,#dddfe3 80%,#f5f6f6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.contenedor{
+    width: 60%;
+    height: 75%;
+    background-color: blueviolet;
+    border-radius: 25px;
+    display: flex;
+    position: relative;
+    overflow: hidden;
+}
+.welcome{
+    height: 100%;
+    width: 50%;
+    padding: 170px 80px;
+    color: white;
+    background-color: rgb(39, 126, 255);
+   
+    
+}
+.login{
+    height: 100%;
+    width: 50%;
+    padding: 100px 80px;
+    color: black;
+    background-color: white;
+    position: relative;
+    
+}
+
+.welcome a{
+    display: block;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 10px;
+    border: solid white;
+    border-radius: 30px;
+    background-color: rgb(39, 126, 255);
+    color: white;
+    text-decoration: none;
+    
+    
+}
+.login a{
+   
+    background-color: rgb(39, 126, 255);
+    border-radius: 30px;
+    color: white;
+    display: block;
+    width: 270px;
+    height: 40px;
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.circulo {
+  width: 130px;             
+  height: 130px;            
+  border: 25px solid white;    
+  border-radius: 50%;
+  position: absolute;
+  left: 42%;
+  bottom: 80px;
+}
+.rombo {
+  width: 140px;
+  height: 140px;
+  border: 35px solid rgb(223, 226, 230);
+  border-radius: 30px;
+  background-color: transparent;
+  transform: rotate(45deg);
+  position: absolute;
+  left: 390px;
+  
+}
+
+
+.contenedor p{
+    margin-top: 20px;
+}
+#user{
+    margin-top: 30px;
+    border: none;
+    border-bottom: 1px solid rgb(185, 181, 181);
+}
+#pw{
+    margin-top: 30px;
+    border: none;
+    border-bottom: 1px solid rgb(185, 181, 181);
+}
+#sign{
+    margin: 30px 100px 20px;
+    
+}
+#hr1 {
+  border: none;
+  height: 3px;             
+  background-color: white; 
+  width: 30%;    
+  margin-top: 10px;      
+}
+#hr2 {
+  border: none;
+  height: 3px;             
+  background-color: rgb(39, 126, 255); 
+  width: 30px;    
+  margin-left: 120px;      
+}
+
