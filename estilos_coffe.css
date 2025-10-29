@@ -1,0 +1,497 @@
+body {
+    margin: 0;
+    border: 0;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div{
+    box-sizing: border-box;
+}
+
+section {
+    width: 100%;
+    height: 750px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#s1 {
+    position: relative;
+    background-color: #CFCFCF;
+}
+
+#s2 {
+    position: relative;
+
+}
+
+#s3 {
+    position: relative;
+    background-color: #F0F0F0;
+}
+
+#s4 {
+    position: relative;
+   
+
+}
+
+#s5 {
+    position: relative;
+    background-color: #EFEFEF;
+}
+
+#s6 {
+    position: relative;
+    background-color: #361F19;
+    color: white;
+
+}
+
+#logo {
+    position: absolute;
+    left: 100px;
+}
+
+.menu1 {
+    position: absolute;
+    top: 20px;
+    left: 1100px;
+
+
+}
+
+.menu2 {
+    position: absolute;
+    top: 50px;
+    left: 500px;
+}
+
+.menu1 a {
+    border: 10px;
+    padding: 5px 20px;
+
+
+}
+
+.menu2 a {
+    border-right: solid 2px black;
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+
+#home {
+    color: white;
+    background-color: #361F19;
+    ;
+}
+
+.logShop {
+    position: absolute;
+    width: 2%;
+    height: 2%;
+    top: 17px;
+    right: 30px;
+}
+
+.textoPub {
+    font-size: 45px;
+    position: absolute;
+    top: 30px;
+    left: 100px;
+}
+
+.texC {
+    position: absolute;
+    left: 130px;
+    top: 180px;
+
+}
+
+#imgC {
+    position: absolute;
+    width: 700px;
+    left: 600px;
+    top: 40px;
+}
+
+#img2 {
+    position: absolute;
+    width: 600px;
+    top: 200px;
+    left: 100px;
+
+}
+
+.info1 {
+    position: absolute;
+    width: 480px;
+    left: 800px;
+    text-align: justify;
+    top: 200px;
+}
+
+#precio {
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.info1 button {
+    color: white;
+    border-radius: 10px;
+    border: none;
+    height: 40px;
+}
+
+#cantidad {
+    background-color: #361F19;
+    width: 90px;
+
+
+}
+
+#agregar {
+    background-color: #DBA771;
+    width: 120px;
+}
+
+.best {
+    text-align: justify;
+    position: absolute;
+    left: 200px;
+    top: 80px;
+}
+
+.info2 {
+    position: absolute;
+    width: 370px;
+    left: 1000px;
+    top: 80px;
+    text-align: justify;
+}
+
+.hand {
+    position: absolute;
+    top: 400px;
+    left: 200px;
+    text-align: center;
+    width: 300px;
+    height: 200px;
+    background-color: #361F19;
+    border-radius: 15px;
+    color: white;
+}
+
+#imghand {
+    position: relative;
+    width: 100px;
+    left: 100px;
+    top: 20px;
+
+
+}
+
+.cup {
+    position: absolute;
+    top: 400px;
+    left: 600px;
+    text-align: center;
+    width: 300px;
+    height: 200px;
+    background-color: #DCA56D;
+    border-radius: 15px;
+    color: #361F19;
+
+}
+
+#cupCf {
+    position: relative;
+    width: 100px;
+    left: 10px;
+    top: 20px;
+
+}
+
+.taste {
+    position: absolute;
+    top: 400px;
+    left: 1000px;
+    text-align: center;
+    width: 300px;
+    height: 200px;
+    background-color: #361F19;
+    border-radius: 15px;
+    color: white;
+}
+
+#organic {
+    position: relative;
+    width: 95px;
+    left: 100px;
+    top: 20px;
+
+}
+#our{
+    text-align: center;
+}
+
+
+.f{
+    position: absolute;
+    text-align: justify;
+    width:320px ;
+    height: 120px;
+    color: #361F19;
+    padding: 10px 20px;
+    top: 500px;
+    z-index: 1;
+    border: 2px solid #361F19 ;
+}
+.f1{
+    background-color: #DBA771;
+    left: 100px;
+}
+.f2{
+    left: 470px;
+    background-color: white;
+    
+}
+.f3{
+    background-color: white;
+    left: 840px;
+}
+.f4{
+    left: 1210px;
+    background-color: white;
+    
+}
+.btnF{
+    position: absolute;
+    top: 70px;
+    left: 150px;
+    border: 2px solid #361F19;
+    font-weight: bold;
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+}
+.b1{
+    background-color: #361F19;
+    color:#DBA771
+}
+.inter{
+    position: absolute;
+    width:320px ;
+    height: 300px;
+    background-color: #361F19;
+    border-radius:50px ;
+    z-index: -1;
+    top: 240px;
+
+}
+.i1{
+    left: 100px;
+
+}
+.i2{
+    left: 470px;
+
+}
+.i3{
+    left: 840px;
+
+}
+.i4{
+    left: 1210px;
+
+}
+.imgF{
+    position: absolute;
+    width: 400px;
+    top: 170px;
+    z-index: 1;
+    
+}
+.vaso1{
+    left: 80px;
+}
+.vaso2{
+    left: 450px;
+}
+.vaso3{
+    left: 820px;
+}
+.vaso4{
+    left: 1190px;
+}
+.etiChoco{
+    position: absolute;
+    background-color: #DBA771;
+    width: 200px;
+    height: auto;
+    text-align: center;
+
+}
+.e1{
+    left: 170px;
+    top: 100px;
+
+}
+.e2{
+    left: 530px;
+    top: 100px;
+}
+.e3{
+    left: 890px;
+    top: 100px;
+}
+.e4{
+    left: 1250px;
+    top: 100px;
+}
+
+#barra1 {
+    position: absolute;
+    height: 5px;
+    background-color:#361F19;
+    width: 80px;
+    margin-top: 10px;
+    bottom: 10px;
+    left: 770px;
+
+}
+.texts5{
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    width: 550px;
+    height: auto;
+    text-align: justify;
+}
+.texts5 p{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.email{
+    position: relative;
+    background-color: #361F19;
+    height: 50px;
+    border-radius: 10px;
+}
+.email input{
+    position: absolute;
+    background-color: #361F19;
+    color: white;
+    width: 300px;
+    height: 47px;
+    border: none;
+    left: 30px;
+
+}
+
+#subs{
+    position: absolute;
+    right: 40px;
+    top: 7px;
+    background-color: #DBA771;
+    color: #361F19;
+    height: 37px;
+    width: 150px;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+}
+#bolsa{
+    position: absolute;
+    left: 900px;
+    top: 50px;
+    width:600px ;
+}
+.pie1{
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    width: 550px;
+    text-align: justify;
+
+}
+.page{
+    position: absolute;
+    left: 800px;
+    top: 200px;
+}
+.page a{
+    display: block;
+    color: white;
+    padding-bottom: 23px;
+}
+.links{
+    position: absolute;
+    left: 900px;
+    top: 200px;
+}
+.links a{
+    display: block;
+    color: white;
+    padding-bottom: 23px;
+}
+.contacts{
+    position: absolute;
+    left: 1050px;
+    top: 200px;
+}
+.contacts p{
+    padding-bottom: 8px;
+}
+#barra2 {
+    position: absolute;
+    height: 2px;
+    background-color:#DBA771;
+    width: 800px;
+    bottom: 100px;
+    left: 350px;
+}
+.pie2{
+    position: absolute;
+    left: 550px;
+    bottom: 50px;
+}
+#house{
+    position: absolute;
+    left: -45px ;
+    top: 50px;
+    color: white;
+    width: 30px;
+}
+#phone{
+    position: absolute;
+    left: -45px ;
+    top: 95px;
+    color: white;
+    width: 30px;
+}
+#em{
+    position: absolute;
+    left: -45px ;
+    top: 145px;
+    color: white;
+    width: 30px;
+}
+#web{
+    position: absolute;
+    left: -45px ;
+    top: 185px;
+    color: white;
+    width: 30px;
+}
+
+
+
+
+
+
