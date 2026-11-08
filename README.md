@@ -1,5 +1,3 @@
-# Hola, soy Magali Carranza 👋
-
 **Desarrolladora Full Stack Jr.** · Ingeniería en Sistemas Computacionales.
 Me interesa especialmente el **desarrollo backend**: diseñar APIs REST, microservicios y bases de datos. También desarrollo aplicaciones web y móviles con React y React Native.
 
