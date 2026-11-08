@@ -42,7 +42,7 @@ Me interesa especialmente el **desarrollo backend**: diseñar APIs REST, microse
 | Proyecto | Descripción | Stack |
 | --- | --- | --- |
 | [DidiFood Gerencial](https://github.com/MagaliCarranza/app-gerencial-didiFood) | App móvil de KPIs e inteligencia de negocios con proceso ETL de ~200,000 pedidos y API REST de 41 endpoints. | Python, PostgreSQL, Node.js, React Native |
-| [EventFlow](https://github.com/MagaliCarranza/EventFlow-venta-de-boletos) | Plataforma de venta de boletos con arquitectura de microservicios; desarrollé el microservicio de pagos con Stripe. | Java 21, Spring Boot, React, Docker |
+| [EventFlow](https://github.com/MagaliCarranza/EventFlow-venta-de-boletos) | Plataforma de venta de boletos con arquitectura de microservicios. | Java 21, Spring Boot, React, Docker |
 | UniversoDev | Plataforma de colaboración para desarrolladores: proyectos, equipos y torneos de programación. | PHP, Laravel, MySQL |
 
 ## Contacto
